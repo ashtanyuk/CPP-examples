@@ -1,5 +1,7 @@
 # Учебные коды программ для курса "Программирование на С++"
 
+![Lines of code](https://img.shields.io/tokei/lines/GitHub/ashtanyuk/CPP-examples)
+
 ## Список примеров
 
 | Раздел                            | Описание                          |
