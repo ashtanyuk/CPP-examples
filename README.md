@@ -1,6 +1,7 @@
 # Учебные коды программ для курса "Программирование на С++"
 
 ![Lines of code](https://img.shields.io/tokei/lines/GitHub/ashtanyuk/CPP-examples)
+![GitHub search hit counter](https://img.shields.io/github/search/ashtanyuk/cpp-examples/goto)
 
 ## Список примеров
 
